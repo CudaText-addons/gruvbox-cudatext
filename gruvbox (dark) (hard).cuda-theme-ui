@@ -19,7 +19,7 @@
   "EdMinimapTooltipBg" : "#404040",
   "EdMinimapTooltipBorder" : "#505050",
   "EdMicromapBg" : "#1D2021",
-  "EdMicromapViewBg" : "#1D2021",
+  "EdMicromapViewBg" : "#3C3836",
   "EdMicromapOccur" : "#5050C0",
   "EdMicromapSpell" : "#D06060",
   "EdStateChanged" : "#504945",
